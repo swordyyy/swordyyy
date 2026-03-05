@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I am Onur 👋
+# I am userwhoami 👋
 
 I build projects in my free time for learning and fun  
 I am interested in robotics, embedded systems and artificial intelligence  
