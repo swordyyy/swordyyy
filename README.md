@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I am userwhoami 👋
+# I am swordy 👋
 
 I build projects in my free time for learning and fun  
 I am interested in robotics, embedded systems and artificial intelligence  
@@ -9,7 +9,7 @@ I focus on building practical projects and developing strong technical foundatio
 ## 🔧 Areas of Interest
 - Robotics and automation  
 - Embedded systems and electronics  
-- Artificial intelligence, data-driven modeling 
+- Web development
 - Software development  
 
 ## 🚀 Currently Working On
@@ -17,7 +17,7 @@ I focus on building practical projects and developing strong technical foundatio
 - Embedded programming with microcontrollers   
 
 ## 🛠️ Technologies
-- **Languages:** Python, C++, GDScript
+- **Languages:** Python, C++, html, css
 - **Hardware:** Microcontrollers, sensors, actuators  
 - **Tools:** GitHub, VS Code  
 
