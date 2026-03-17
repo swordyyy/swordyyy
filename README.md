@@ -3,7 +3,7 @@
 # I am swordy 👋
 
 I build projects in my free time for learning and fun  
-I am interested in robotics, embedded systems and artificial intelligence  
+I am interested in robotics, embedded systems and web development
 I focus on building practical projects and developing strong technical foundations
 
 ## 🔧 Areas of Interest
